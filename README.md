@@ -3,5 +3,5 @@ With 3 years of experience as a Front-End Web Developer, Maria José has relocat
 
 - Languages : - English, Spanish Indonesian
 
-- Upcoming projects:
-  - October 30th : Credit Risk Modeling (Rakamin Academy x ID/x Partners)
+- Latest projects:
+  - Credit Risk Modeling (Rakamin Academy x ID/x Partners)
